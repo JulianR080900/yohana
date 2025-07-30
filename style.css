@@ -145,7 +145,13 @@ body {
 .page:nth-child(33),
 .page:nth-child(35),
 .page:nth-child(37),
-.page:nth-child(39) {
+.page:nth-child(39),
+.page:nth-child(41),
+.page:nth-child(43),
+.page:nth-child(45),
+.page:nth-child(47),
+.page:nth-child(49),
+.page:nth-child(51) {
   background-position: right top;
 }
 .page:nth-child(1) {
@@ -225,8 +231,32 @@ body {
 }
 .page:nth-child(38),
 .page:nth-child(39) {
-  background-image: url('img/19.jpg');
+  background-image: url('img/20.jpg');
 }
-.page:nth-child(40) {
+.page:nth-child(40),
+.page:nth-child(41) {
+  background-image: url('img/21.jpg');
+}
+.page:nth-child(42),
+.page:nth-child(43) {
+  background-image: url('img/22.jpg');
+}
+.page:nth-child(44),
+.page:nth-child(45) {
+  background-image: url('img/23.jpg');
+}
+.page:nth-child(46),
+.page:nth-child(47) {
+  background-image: url('img/24.jpg');
+}
+.page:nth-child(48),
+.page:nth-child(49) {
+  background-image: url('img/25.jpg');
+}
+.page:nth-child(50),
+.page:nth-child(51) {
+  background-image: url('img/26.jpg');
+}
+.page:nth-child(52) {
   background-image: url('img/contraportada.png');
 }
